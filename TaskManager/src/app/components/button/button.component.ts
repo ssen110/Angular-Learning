@@ -16,7 +16,6 @@ export class ButtonComponent implements OnInit{
 
   constructor() {}
   ngOnInit(): void {
-    console.log("Will define the methods after initializing the Init")
     if (!this.text){
       this.text = "Click Me!"
     }
