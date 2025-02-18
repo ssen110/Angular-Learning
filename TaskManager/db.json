@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Shopping",
+      "day": "Feb 18th at 7:30pm",
+      "reminder": false
+    },
+    {
+      "id": "2",
+      "text": "Finish Angular Tutorial",
+      "day": "Feb 20th at 10:00am",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Call Mom",
+      "day": "Feb 19th at 5:00pm",
+      "reminder": false
+    },
+    {
+      "id": "4",
+      "text": "Gym Workout",
+      "day": "Feb 21st at 6:30am",
+      "reminder": true
+    },
+    {
+      "id": "5",
+      "text": "Team Meeting",
+      "day": "Feb 22nd at 11:00am",
+      "reminder": true
+    },
+    {
+      "id": "6",
+      "text": "Read a Book",
+      "day": "Feb 23rd at 8:00pm",
+      "reminder": false
+    }
+  ]
+}
