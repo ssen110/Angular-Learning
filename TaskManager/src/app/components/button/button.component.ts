@@ -16,12 +16,6 @@ export class ButtonComponent implements OnInit{
 
   constructor() {}
   ngOnInit(): void {
-    if (!this.text){
-      this.text = "Click Me!"
-    }
-    if (!this.color){
-      this.color = "red"
-    }
   }
   onClick(){
     this.btnClink.emit()
